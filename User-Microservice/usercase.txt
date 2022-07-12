@@ -1,0 +1,22 @@
+	
+ --->	user-service
+	 	
+	 	port :  8080
+	 	
+	 	end-point  : 	 	user/userId
+	 	
+	 	
+	--> 	contact - service 
+	 	
+	 	port : 8081
+	 	end-point : /contact/userId 
+	 	
+	 --> eureka - service
+	 
+	 port : 8082
+	 
+	 --> API Gateway
+	 
+	 	port : 8083
+	 	
+	 	
